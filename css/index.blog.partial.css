@@ -17,7 +17,7 @@
 
 .blog__description {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 20px; 
+    font-size: 20px;
     color: rgb(225, 221, 232);
     display: block;
 }
@@ -45,7 +45,7 @@
 
 .article__description {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 18px; 
+    font-size: 18px;
     color: rgb(185, 177, 197);
     display: block;
 }
@@ -59,7 +59,8 @@
     font-size: 15px;
     cursor: pointer;
     border-radius: 5px;
-    font-family: 'Source Sans 3', sans-serif; ;
+    font-family: 'Source Sans 3', sans-serif;
+    ;
 }
 
 .button:hover {

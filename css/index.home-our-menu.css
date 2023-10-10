@@ -3,14 +3,17 @@
     font-family: 'Leckerli One', cursive;
     font-size: 14px;
 }
+
 #home-our-menu p,
 #home-our-menu button {
     font-family: 'Source Sans 3', sans-serif;
 }
+
 #home-our-menu .featured-desserts-treats,
 #home-our-menu h3 {
     font-family: 'Dangrek', cursive;
 }
+
 /*font-family*/
 
 .home-our-menu {
@@ -27,6 +30,7 @@
     font-size: 34px;
     color: var(--text-color);
 }
+
 .menu-nav {
     display: inline-flex;
     margin-top: 45px;
@@ -76,18 +80,18 @@
     font-size: 22px;
 }
 
-.menu-position p{
+.menu-position p {
     color: var(--price-color);
     font-size: 22px;
 }
 
-@media (min-width: 768px){
+@media (min-width: 768px) {
     .menu-pages {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media (min-width: 992px){
+@media (min-width: 992px) {
     .menu-pages {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
